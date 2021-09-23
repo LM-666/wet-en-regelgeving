@@ -296,7 +296,52 @@
 | **Tweede Veroordeling**  | 13 maanden  |  | € 12500,-  |
 | **Meerdere Veroordelingen**  | 18 maanden  |  | € 15000,-  |
 
-### Artikel II-8 Vernieling (350 SR)
+### Artikel II-8 Uitbraak
+
+8.1 Ontsnappen uit het cellencomplex of gevangenis 
+Het is toegestaan om te ontsnappen uit het cellencomplex of gevangenis, echter geld dit alleen als die gebeurt zonder enige uiting van geweld of bedreiging.
+Indien verdachte is ontsnapt zonder gebruik te maken van dreiging/geweld mag dit niet van invloed zijn op de opgelegde straf.
+
+8.1.1 ontsnappen uit het cellencomplex en de gevangenis met geweld.
+Schuldig is een persoon die geweld pleegt of zich gewelddadig verzet tegen een ambtenaar in functie.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 20 maanden  |  | € 20000,-  |
+| **Tweede Veroordeling**  | 40 maanden  |  | € 30000,-  |
+| **Meerdere Veroordelingen**  | 90 maanden  |  | € 50000,-  |
+
+8.1.2 Schuldig is een persoon die geweld pleegt of zich gewelddadig verzet tegen een ambtenaar in functie met als doel de verdachte uit te breken.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 20 maanden  |  | € 20000,-  |
+| **Tweede Veroordeling**  | 40 maanden  |  | € 30000,-  |
+| **Meerdere Veroordelingen**  | 90 maanden  |  | € 50000,-  |
+
+8.2 ontsnappen uit het gevangeniscomplex
+Het is toegestaan om te ontsnappen uit het gevangeniscomplex.
+Echter geld dit alleen als die gebeurt zonder enige uiting van geweld of bedreiging.
+Indien verdachte is ontsnapt zonder gebruik te maken van dreiging/geweld mag dit niet van invloed zijn op de opgelegde straf.
+
+8.2.1
+Schuldig is een persoon die geweld pleegt of zich gewelddadig verzet tegen een ambtenaar in functie.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 30 maanden  |  | € 30000,-  |
+| **Tweede Veroordeling**  | 60 maanden  |  | € 40000,-  |
+| **Meerdere Veroordelingen**  | 90 maanden  |  | € 60000,-  |
+
+8.2.2 Schuldig is een persoon die geweld pleegt of zich gewelddadig verzet tegen een ambtenaar in functie met als doel de verdachte uit te breken.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 50 maanden  |  | € 30000,-  |
+| **Tweede Veroordeling**  | 90 maanden  |  | € 50000,-  |
+| **Meerdere Veroordelingen**  | 180 maanden  |  | € 80000,-  |
+
+### Artikel II-9 Vernieling (350 SR)
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt.
 2. Met vernieling wordt ook gelijkgesteld het opzettelijk en wederrechtelijk doden, beschadigen, onbruikbaar maken of wegmaken van een (huis)dier.
