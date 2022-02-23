@@ -86,7 +86,7 @@
     4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
     5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
     6. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
-4. Een voertuig mag terug worden gekocht voor 10% op basis van de ernst van het gepleegde strafbare feit. De ernst is ter beoordeling van een hOvJ/OvJ
+4. Een voertuig mag terug worden gekocht voor 10% op basis van de ernst van het gepleegde strafbare feit.
 5. Alle bovenstaande leden gelden ook voor heli's en vliegtuigen.
 6. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslag name van het voertuig.
 
